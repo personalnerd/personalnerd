@@ -6,7 +6,7 @@
 
 <div align="center">
   
-I'm Front-End Developer and I'm quite good at:
+I'm Front-End Developer / Automation QA and I'm quite good at:
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 &nbsp;
@@ -19,6 +19,8 @@ I'm Front-End Developer and I'm quite good at:
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 &nbsp;
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+&nbsp;
+![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
 
 &nbsp;
 
@@ -27,10 +29,6 @@ Currently learning/improving:
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 &nbsp;
 ![ReactJS](https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=35495E)
-&nbsp;
-![C#](https://img.shields.io/badge/C%23-1D9924?style=for-the-badge&logo=csharp&logoColor=white)
-&nbsp;
-![DOTNET](https://img.shields.io/badge/.NET-4E2BCD?style=for-the-badge&logo=dotnet&logoColor=white)
 
 &nbsp;
 
