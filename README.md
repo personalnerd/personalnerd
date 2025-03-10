@@ -29,6 +29,10 @@ Currently learning/improving:
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 &nbsp;
 ![ReactJS](https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=35495E)
+&nbsp;
+![Cypress](https://img.shields.io/badge/Cypress-007780?style=for-the-badge&logo=cypress&logoColor=White)
+&nbsp;
+![RobotFramework](https://img.shields.io/badge/RobotFramework-00C0B5?style=for-the-badge&logo=robotframework&logoColor=000000)
 
 &nbsp;
 
@@ -42,7 +46,7 @@ Where else to find me:
 &nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tarcisio)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tarcis_io)
+[![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/tcsio.bsky.social)
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tcavalcante/)
 &nbsp;
